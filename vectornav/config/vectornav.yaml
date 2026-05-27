@@ -32,7 +32,7 @@ vectornav:
       timeField: 0x0003              # TIMEGROUP_NONE
       imuField: 0x0600               # IMUGROUP_NONE
       # set gpsField directly in source to enforce or condition
-      attitudeField: 0x0104          # ATTITUDEGROUP_NONE
+      attitudeField: 0x0106          # ATTITUDEGROUP_NONE
       # set insField directly in source to enforce or condition
       gps2Field: 0x0000              # GPSGROUP_NONE
     # Binary output register 2
